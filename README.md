@@ -1,6 +1,6 @@
 # `@stepfinance/prettier-config`
 
-[![npm version](https://badge.fury.io/js/@stepfinance/prettier-config.svg)](https://badge.fury.io/js/@stepfinance/prettier-config)
+[![npm version](https://badge.fury.io/js/@stepfinance%2Fprettier-config.svg)](https://badge.fury.io/js/@stepfinance%2Fprettier-config)
 
 This packages provides Step Finance's [Prettier](https://prettier.io) configuration that we use for linting our projects.
 
