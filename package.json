@@ -1,0 +1,21 @@
+{
+  "name": "@stepfinance/prettier-config",
+  "description": "Step Finance's Prettier configuration",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "repository": "https://github.com/step-finance/prettier-config",
+  "author": "Edward Bramanti <edward@step.finance>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prettier": "^2.4.2",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
